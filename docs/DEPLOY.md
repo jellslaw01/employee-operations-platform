@@ -144,7 +144,7 @@ Change this password after logging in.
 
 ## Deploy to Render
 
-[render.yaml](render.yaml) defines three Render resources:
+[render.yaml](../render.yaml) defines three Render resources:
 
 - A backend API service
 - A frontend web service
