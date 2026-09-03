@@ -1,7 +1,7 @@
 {
   "name": "employee-management-api",
   "version": "1.0.0",
-  "description": "API для управления информацией о сотрудниках компании",
+  "description": "REST API for employee, project, and notification management",
   "main": "app.js",
   "scripts": {
     "build-prod": "npm ci && npm run clear-db:prod && npm run migrate:prod && npm run seed:prod",
